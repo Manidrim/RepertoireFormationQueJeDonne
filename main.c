@@ -4,4 +4,6 @@ main(){
 	
 	int c = a -b;
 	jklmsdf
+	
+	master
 }
