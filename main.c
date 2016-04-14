@@ -5,5 +5,9 @@ main(){
 	int c = a -b;
 	jklmsdf
 	
+<<<<<<< HEAD
 	master
+=======
+	soustraction
+>>>>>>> soustraction
 }
